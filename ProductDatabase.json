@@ -25,7 +25,7 @@
         "size": ["S", "M", "L", "XL"],
         "color": ["Red", "Blue", "Purple", "Gray"],
         "images": [
-            "./images/Product_1_0.jpg",
+             "./images/Product_1_0.jpg",
             "./images/Product_1_1.jpg",
             "./images/Product_1_2.jpg"
         ]
@@ -249,9 +249,9 @@
         "size": ["OS"],
         "color": ["Black", "Gray", "Pink"],
         "images": [
-            "../images/Product_15_0.jpg",
-            "../images/Product_15_1.jpg",
-            "../images/Product_15_2.jpg"
+            "./images/Product_15_0.jpg",
+            "./images/Product_15_1.jpg",
+            "./images/Product_15_2.jpg"
         ]
     }
 ]
