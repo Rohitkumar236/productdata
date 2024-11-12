@@ -73,9 +73,9 @@
         "size": ["S", "M", "L", "XL"],
         "color": ["White", "Blue", "Purple", "Gray"],
         "images": [
-            "./images/Product_4_0.jpg",
-            "./images/Product_4_1.jpg",
-            "./images/Product_4_2.jpg"
+             "./images/Product_4_0.jpg",
+             "./images/Product_4_1.jpg",
+             "./images/Product_4_2.jpg"
         ]
     },
 
@@ -90,8 +90,8 @@
         "color": ["White", "Light Blue", "Purple", "Gray"],
         "images": [
             "./images/Product_5_0.jpg",
-            "./images/Product_5_1.jpg",
-            "./images/Product_5_2.jpg"
+             "./images/Product_5_1.jpg",
+             "./images/Product_5_2.jpg"
         ]
     },
 
@@ -105,9 +105,9 @@
         "size": ["S", "M", "L", "XL"],
         "color": ["White", "Light Blue", "Purple", "Gray"],
         "images": [
-            "./images/Product_6_0.jpg",
-            "./images/Product_6_1.jpg",
-            "./images/Product_6_2.jpg"
+             "./images/Product_6_0.jpg",
+             "./images/Product_6_1.jpg",
+             "./images/Product_6_2.jpg"
         ]
     },
 
@@ -121,9 +121,9 @@
         "size": ["2-3Y", "3-4Y", "4-5Y", "5-6Y"],
         "color": ["Maroon", "Light Blue", "Purple", "Gray"],
         "images": [
-            "./images/Product_7_0.jpg",
-            "./images/Product_7_1.jpg",
-            "./images/Product_7_2.jpg"
+             "./images/Product_7_0.jpg",
+             "./images/Product_7_1.jpg",
+             "./images/Product_7_2.jpg"
         ]
     },
     
@@ -138,8 +138,8 @@
         "color": ["Gray", "Light Blue", "Purple"],
         "images": [
             "./images/Product_8_0.jpg",
-            "./images/Product_8_1.jpg",
-            "./images/Product_8_2.jpg"
+             "./images/Product_8_1.jpg",
+             "./images/Product_8_2.jpg"
         ]
     },
 
@@ -153,9 +153,9 @@
         "size": ["7", "8", "9", "10"],
         "color": ["White", "Light Blue", "Purple"],
         "images": [
-            "./images/Product_9_0.jpg",
-            "./images/Product_9_1.jpg",
-            "./images/Product_9_2.jpg"
+             "./images/Product_9_0.jpg",
+             "./images/Product_9_1.jpg",
+             "./images/Product_9_2.jpg"
         ]
     },
 
@@ -169,9 +169,9 @@
         "size": ["S", "M", "L", "XL"],
         "color": ["Gray", "Light Blue", "Purple"],
         "images": [
-            "./images/Product_10_0.jpg",
-            "./images/Product_10_1.jpg",
-            "./images/Product_10_2.jpg"
+             "./images/Product_10_0.jpg",
+             "./images/Product_10_1.jpg",
+             "./images/Product_10_2.jpg"
         ]
     },
 
