@@ -41,9 +41,9 @@
         "size": ["S", "M", "L", "XL"],
         "color": ["Green", "Blue", "Purple", "Gray"],
         "images": [
-            "../images/Product_2_0.jpg",
-            "../images/Product_2_1.jpg",
-            "../images/Product_2_2.jpg"
+            "./images/Product_2_0.jpg",
+            "./images/Product_2_1.jpg",
+            "./images/Product_2_2.jpg"
         ]
     },
 
@@ -57,9 +57,9 @@
         "size": ["S", "M", "L", "XL"],
         "color": ["Light Blue", "Blue", "Purple", "Gray"],
         "images": [
-            "../images/Product_3_0.jpg",
-            "../images/Product_3_1.jpg",
-            "../images/Product_3_2.jpg"
+            "./images/Product_3_0.jpg",
+            "./images/Product_3_1.jpg",
+            "./images/Product_3_2.jpg"
         ]
     },
 
