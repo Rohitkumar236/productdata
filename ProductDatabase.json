@@ -9,9 +9,9 @@
         "size": ["S", "M", "L", "XL"],
         "color": ["Black", "Blue", "Purple", "Gray"],
         "images": [
-            "../images/Product_0_0.jpg",
-            "../images/Product_0_1.jpg",
-            "../images/Product_0_2.jpg"
+            "./images/Product_0_0.jpg",
+            "./images/Product_0_1.jpg",
+            "./images/Product_0_2.jpg"
         ]
     },
 
